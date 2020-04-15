@@ -9,7 +9,7 @@ define('DB_NAME', 'tmvc'); // Put YOUR DATABASE NAME
 define('APPROOT', dirname(dirname(__FILE__))); 
 
 // URL Root
-define('URLROOT', 'http://localhost/PHP/oop_php_mvc_advance/Section3_Project/Tanaskoweb_MVC_Project'); // Put YOUR URL
+define('URLROOT', 'http://localhost/PHP/Tanaskoweb_MVC'); // Put YOUR URL
 
 // Site Name
 
